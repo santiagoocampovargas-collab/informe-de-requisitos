@@ -1,5 +1,5 @@
 # informe-de-requisitos
-# 🍽️ Sazón — Célula 1. Catalogo de productos.
+# 🍽️ Sazón — Célula 1. Catalogo de productos Nutresa.
 
 ## 1. Descripción del proyecto
 
