@@ -38,7 +38,7 @@ Responsable de desarrollar las siguientes actividades:
 - Stack tecnológico.
 - Alcance (exclusiones).
   
-### Daniel
+### Daniel Acevedo
 
 responsable de desarrollar las siguientes actividades:
 
